@@ -68,6 +68,7 @@ button {
 
 .order-component .subtitle {
   margin-bottom: 30px;
+  padding: 0px 24px;
 }
 
 .pricing-box {
@@ -85,11 +86,11 @@ button {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  margin-right: 4rem;
+  margin-right: 6rem;
 }
 
 .annual-plan {
-  color: black;
+  color: var(--dark-blue);
   font-weight: 700;
 }
 
